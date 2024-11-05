@@ -25,6 +25,4 @@ Exploratory Data Analysis is a crucial step in the data analysis pipeline, provi
 - **Matplotlib and Seaborn**: Data visualization libraries to create compelling and informative visuals.
 - **Jupyter Notebook**: Interactive environment for running EDA steps and sharing insights.
 
-### Future Plans
-
 
